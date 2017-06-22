@@ -4,7 +4,7 @@ layout: default
 ---
 
 # ROTHERHAM.GOV.UK
-Council services online - (ノ ˘_˘)ノ :｡･:*:･ﾟ’★ WOW! - How simple is this? 
+Council services online - (ノ ˘_˘)ノ :｡･:*:･ﾟ★ WOW! - How simple is this? 
 
 ### Your Account
 - Sign in
