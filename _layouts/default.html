@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <title>{{ page.title }} - Rotherham Council</title>
-  <link rel="stylesheet" href="./css/main.css">
-</head>
+
+    {% include head.html %}
+
+    {% include header.html %}
+
 <body>
 
-  {{ content }}
+  <main>
+    {{ content }}
+  </main>
+
+    {% include footer.html %}
 
 </body>
 </html>

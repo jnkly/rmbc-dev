@@ -3,13 +3,6 @@ title: Homepage
 layout: default
 ---
 
-# ROTHERHAM.GOV.UK
-Council services online - (ノ ˘_˘)ノ :｡･:*:'★ WOW! - How simple is this? 
-
-### Your Account
-- Sign in
-- Register
-
 ### Search
 - Find information, advice and more
 
@@ -40,9 +33,6 @@ Council services online - (ノ ˘_˘)ノ :｡･:*:'★ WOW! - How simple is thi
 - Buisness and economy
 - Education and learning
 - Community and living
-
-### Footer
-- &copy; 2017 - Rotherham MBC
 
 
 
