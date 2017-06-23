@@ -7,9 +7,9 @@ layout: default
 - Find information, advice and more
 
 ### Do it now
-- Pay
-- Report
-- Apply
+- [Pay]({{site.baseurl}}/pay)
+- [Report]({{site.baseurl}}/report)
+- [Apply]({{site.baseurl}}/apply)
 
 ### Top tasks
 - Check school term dates
