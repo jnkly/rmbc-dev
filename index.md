@@ -11,7 +11,7 @@ layout: default
 - [Report]({{site.baseurl}}/report)
 - [Apply]({{site.baseurl}}/apply)
 
-### Top tasks
+### Most popular
 - Check school term dates
 - Request a housing repair
 - View planning applications
@@ -19,7 +19,7 @@ layout: default
 - Get a new bin
 - Bin collection dates
 
-### Council services
+### Services
 - Jobs and careers
 - Housing
 - Environment and waste
@@ -33,9 +33,3 @@ layout: default
 - Buisness and economy
 - Education and learning
 - Community and living
-
-
-
-
-
-
