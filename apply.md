@@ -5,48 +5,48 @@ layout: default
 
 # Apply for things
 
-### BINS AND RECYCLING
+### Bind and recycling
 - Asbestos disposal
 - Bins for your home  (external link)
 - Commercial waste contract
 - Dispose of large household item
 
-### BUSINESS AND TRADE
+### Business and trade
 - Export certificate
 - Food premises registration
 - Grants
 - Licences
 - Small business bonus scheme
 
-### COUNCIL AND GOVERNMENT
+### Council and government
 - Birth, death, marriage and civil partnership certificates
 - Freedom of information
 - Postal or proxy vote
 
-### COUNCIL TAX AND BENEFITS
+### Council tax and benefits
 - Benefits - find out what you're entitled to (external link)
 - Change in circumstances (Council Tax)
 - Council Tax discounts
 - Welfare support
 
-### ENVIRONMENT
+### Environment
 - Animal welfare concern
 - Tree preservation order
 
-### HOUSING
+### Housing
 - Council house
 - Discretionary housing payment
 - Garden aid
 - Housing Benefit
 - Repair in council house
 
-### PLANNING
+### Planning
 - Building warrant
 - Householder enquiry form
 - Planning permission
 - Planning - pre-application
 
-### ROADS AND PARKING
+### Roads and parking
 - Blue badge
 - Bus pass
 - Garage or garage site
@@ -54,7 +54,7 @@ layout: default
 - Railcard (disabled person)
 - Road permits
 
-### SCHOOLS
+### Schools
 - Education Maintenance Allowance
 - Free school meals and clothing grants
 - School enrolment
