@@ -3,7 +3,7 @@ title: Pay
 layout: default
 ---
 
-# Pay for it
+# Pay for council services
 
 ### Business and trade
 - Business Improvement District
