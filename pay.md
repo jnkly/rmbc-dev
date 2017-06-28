@@ -4,10 +4,35 @@ layout: default
 ---
 
 # Pay for it
-Pay for council services online - (ノ ˘_˘)ノ :｡･:*:'★ WOW! - How simple is this?
 
+### Business and trade
+- Business Improvement District
+- Non-domestic rates
+- Petrol certificate
 
+### Fines and invoices
+- Dog fouling fine
+- Environmental health fine
+- Fly-tipping fine
+- Invoice
+- Littering fine
+- Smoking fine
 
+### Housing
+- Council Tax
+- Garage rent
+- Rent
 
+### Parking
+- Parking fine
 
+### Planning
+- Planning and building standards
 
+### Rubbish and recycling
+- Brown garden waste bin collection
+
+### Schools
+- Child care invoice
+- School meals
+- School transport
