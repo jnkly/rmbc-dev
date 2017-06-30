@@ -3,9 +3,6 @@ title: Homepage
 layout: default
 ---
 
-### Search
-- Find information, advice and more
-
 ### Do it now
 - [Pay]({{site.baseurl}}/pay)
 - [Report]({{site.baseurl}}/report)

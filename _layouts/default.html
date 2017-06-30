@@ -5,11 +5,17 @@
 
     {% include header.html %}
 
-<body>
+    {% include search.html %}
 
-  <main>
+<body class="ma0 system-sans-serif">
+
+  <main class="pa3">
+    <div class="mw8 center mt3">
     {{ content }}
+    </div>
   </main>
+
+    {% include social.html %}
 
     {% include footer.html %}
 

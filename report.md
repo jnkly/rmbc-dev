@@ -3,7 +3,7 @@ title: Report
 layout: default
 ---
 
-# Report a problem
+# Tell us something
 
 ### Bins and recycling
 - Fly-tipping
