@@ -1,6 +1,6 @@
 ---
 title: Homepage
-layout: default
+layout: homepage
 ---
 
 ### Residents
@@ -32,20 +32,3 @@ layout: default
 - Our sports centres
 - Glifton Park and Museum
 - Boston Castle
-
----
-
-#### Services
-- Jobs and careers
-- Housing
-- Environment and waste
-- Council tax and benefits
-- Leisure and culture
-- Planning and development
-- Transport and streets
-- About the council
-- Health and social care
-- Children and families
-- Buisness and economy
-- Education and learning
-- Community and living
