@@ -1,0 +1,36 @@
+.top-task {
+  background: #000000;
+  color: #373737;
+  display: block;
+}
+
+.top-task > div {
+  display: none;
+}
+
+input {
+  display: none;
+}
+
+label {
+  display: inline-block;
+  padding: 16px;
+  font-weight: 600;
+}
+
+label:hover {
+  background-color: #607D8B;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+input:checked + label {
+  background: #ff5722;
+  color: #ffffff;
+}
+
+#tab1:checked ~ .top-task #resident,
+#tab2:checked ~ .top-task #business,
+#tab3:checked ~ .top-task #visiting {
+  display: block;
+}
