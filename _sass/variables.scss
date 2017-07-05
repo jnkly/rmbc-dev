@@ -8,23 +8,23 @@
   display: none;
 }
 
-input {
+.top-task--input {
   display: none;
 }
 
-label {
+.top-task--label {
   display: inline-block;
   padding: 16px;
   font-weight: 600;
 }
 
-label:hover {
+.top-task--label:hover {
   background-color: #607D8B;
   color: #ffffff;
   cursor: pointer;
 }
 
-input:checked + label {
+.top-task--input:checked + .top-task--label {
   background: #ff5722;
   color: #ffffff;
 }
