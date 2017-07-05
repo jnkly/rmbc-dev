@@ -13,250 +13,122 @@ The Council is not responsible for the content or accuracy of external websites.
 
 You may need to install Language Packs to view some of the languages correctly.
 
-<table border="0"><caption>Google language translation</caption>
+[Afrikaans](https://translate.google.co.uk/translate?sl=auto&tl=af&u=rotherham.gov.uk)
 
-<tbody>
+[Indonesian (Indonesia)](https://translate.google.co.uk/translate?sl=auto&tl=id&u=rotherham.gov.uk&sandbox=1)
 
-<tr>
+[Albanian (Shqiptar)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=sq&u=rotherham.gov.uk&sandbox=1)
 
-<td>[Afrikaans](https://translate.google.co.uk/translate?sl=auto&tl=af&u=rotherham.gov.uk)</td>
+[Irish (Gaeilge)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ga&u=rotherham.gov.uk)
 
-<td>[Indonesian (Indonesia)](https://translate.google.co.uk/translate?sl=auto&tl=id&u=rotherham.gov.uk&sandbox=1)</td>
+[Arabic (العربية)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ar&u=rotherham.gov.uk)
 
-</tr>
+[Italian (Italiano)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=it&u=rotherham.gov.uk)
 
-<tr>
+[Armenian (Հայերեն)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=hy&u=rotherham.gov.uk)
 
-<td>[Albanian (Shqiptar)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=sq&u=rotherham.gov.uk&sandbox=1)</td>
+[Japanese](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ja&u=rotherham.gov.uk)
 
-<td>[Irish (Gaeilge)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ga&u=rotherham.gov.uk)</td>
+[Azerbaijani (Azərbaycan)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=az&u=rotherham.gov.uk)
 
-</tr>
+[Kannada (ಕನ್ನಡ)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=kn&u=rotherham.gov.uk)
 
-<tr>
+[Basque (Euskal)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=eu&u=rotherham.gov.uk)
 
-<td>[Arabic (العربية)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ar&u=rotherham.gov.uk)</td>
+[Korean](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ko&u=rotherham.gov.uk)
 
-<td>[Italian (Italiano)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=it&u=rotherham.gov.uk)</td>
+[Belarusian (Беларуская)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=be&u=rotherham.gov.uk)
 
-</tr>
+[Latin (Latine)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=la&u=rotherham.gov.uk)
 
-<tr>
+[Bengali বাঙ্গালী](https://translate.google.co.uk/translate?hl=&sl=auto&tl=bn&u=rotherham.gov.uk)
 
-<td>[Armenian (Հայերեն)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=hy&u=rotherham.gov.uk)</td>
+[Latvian (Latvijas)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=lv&u=rotherham.gov.uk)
 
-<td>[Japanese](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ja&u=rotherham.gov.uk)</td>
+[Bulgarian (български)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=bg&u=rotherham.gov.uk)
 
-</tr>
+[Lithuanian (Lietuvos)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=lt&u=rotherham.gov.uk)
 
-<tr>
+[Catalan (Català)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ca&u=rotherham.gov.uk&sandbox=1)
 
-<td>[Azerbaijani (Azərbaycan)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=az&u=rotherham.gov.uk)</td>
+[Macedonian (Македонски)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=mk&u=rotherham.gov.uk)
 
-<td>[Kannada (ಕನ್ನಡ)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=kn&u=rotherham.gov.uk)</td>
+[Chinese (Simplified)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=zh-CN&u=rotherham.gov.uk)
 
-</tr>
+[Malay (Melayu)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ms&u=rotherham.gov.uk)
 
-<tr>
+[Chinese (Traditional)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=zh-TW&u=rotherham.gov.uk)
 
-<td>[Basque (Euskal)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=eu&u=rotherham.gov.uk)</td>
+[Maltese (Malti)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=mt&u=rotherham.gov.uk)
 
-<td>[Korean](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ko&u=rotherham.gov.uk)</td>
+[Croatian (Hrvatski)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=hr&u=rotherham.gov.uk)
 
-</tr>
+[Norwegian (Norsk)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=no&u=rotherham.gov.uk)
 
-<tr>
+[Czech (Český)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=cs&u=rotherham.gov.uk)
 
-<td>[Belarusian (Беларуская)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=be&u=rotherham.gov.uk)</td>
+[Persian (فارسی)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=fa&u=rotherham.gov.uk)
 
-<td>[Latin (Latine)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=la&u=rotherham.gov.uk)</td>
+[Danish (Danske)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=da&u=rotherham.gov.uk)
 
-</tr>
+[Polish (Polski)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=pl&u=rotherham.gov.uk)
 
-<tr>
+[Dutch (Nederlands)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=nl&u=rotherham.gov.uk)
 
-<td>[Bengali বাঙ্গালী](https://translate.google.co.uk/translate?hl=&sl=auto&tl=bn&u=rotherham.gov.uk)</td>
+[Portuguese (Português)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=pt&u=rotherham.gov.uk)
 
-<td>[Latvian (Latvijas)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=lv&u=rotherham.gov.uk)</td>
+[Estonian (Eesti)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=et&u=rotherham.gov.uk)
 
-</tr>
+[Romanian (Română)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ro&u=rotherham.gov.uk)
 
-<tr>
+[Filipino](https://translate.google.co.uk/translate?hl=&sl=auto&tl=tl&u=rotherham.gov.uk)
 
-<td>[Bulgarian (български)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=bg&u=rotherham.gov.uk)</td>
+[Russian (Русский)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ru&u=rotherham.gov.uk)
 
-<td>[Lithuanian (Lietuvos)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=lt&u=rotherham.gov.uk)</td>
+[Finnish (Suomi)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=fi&u=rotherham.gov.uk)
 
-</tr>
+[Serbian (Српски)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=sr&u=rotherham.gov.uk)
 
-<tr>
+[French (Français)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=fr&u=rotherham.gov.uk)
 
-<td>[Catalan (Català)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ca&u=rotherham.gov.uk&sandbox=1)</td>
+[Slovak (Slovenský)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=sk&u=rotherham.gov.uk)
 
-<td>[Macedonian (Македонски)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=mk&u=rotherham.gov.uk)</td>
+[Galician](https://translate.google.co.uk/translate?hl=&sl=auto&tl=gl&u=rotherham.gov.uk)
 
-</tr>
+[Slovenian (Slovenski)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=sl&u=rotherham.gov.uk)
 
-<tr>
+[Georgian (ქართული)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ka&u=rotherham.gov.uk)
 
-<td>[Chinese (Simplified)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=zh-CN&u=rotherham.gov.uk)</td>
+[Spanish (Español)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=es&u=rotherham.gov.uk)
 
-<td>[Malay (Melayu)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ms&u=rotherham.gov.uk)</td>
+[German (Deutsch)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=de&u=rotherham.gov.uk)
 
-</tr>
+[Swedish (Svenska)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=sv&u=rotherham.gov.uk)
 
-<tr>
+[Greek (Ελληνικά)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=el&u=rotherham.gov.uk)
 
-<td>[Chinese (Traditional)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=zh-TW&u=rotherham.gov.uk)</td>
+[Thai (ภาษาไทย)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=th&u=rotherham.gov.uk)
 
-<td>[Maltese (Malti)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=mt&u=rotherham.gov.uk)</td>
+[Gujarati (ગુજરાતી)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=gu&u=rotherham.gov.uk)
 
-</tr>
+[Turkish (Türk)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=tr&u=rotherham.gov.uk)
 
-<tr>
+[Haitian Creole (Kreyòl ayisyen)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ht&u=rotherham.gov.uk)
 
-<td>[Croatian (Hrvatski)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=hr&u=rotherham.gov.uk)</td>
+[Ukrainian (Український)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=uk&u=rotherham.gov.uk)
 
-<td>[Norwegian (Norsk)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=no&u=rotherham.gov.uk)</td>
+[Hebrew (עברית)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=iw&u=rotherham.gov.uk)
 
-</tr>
+[Urdu (اردو)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ur&u=rotherham.gov.uk)
 
-<tr>
+[Hindi](https://translate.google.co.uk/translate?hl=&sl=auto&tl=hi&u=rotherham.gov.uk)
 
-<td>[Czech (Český)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=cs&u=rotherham.gov.uk)</td>
+[Vietnamese (Việt)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=vi&u=rotherham.gov.uk)
 
-<td>[Persian (فارسی)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=fa&u=rotherham.gov.uk)</td>
+[Hungarian (Magyar)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=hu&u=rotherham.gov.uk)
 
-</tr>
+[Welsh (Cymraeg)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=cy&u=rotherham.gov.uk)
 
-<tr>
+[Icelandic (Íslenska)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=is&u=rotherham.gov.uk)
 
-<td>[Danish (Danske)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=da&u=rotherham.gov.uk)</td>
-
-<td>[Polish (Polski)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=pl&u=rotherham.gov.uk)</td>
-
-</tr>
-
-<tr>
-
-<td>[Dutch (Nederlands)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=nl&u=rotherham.gov.uk)</td>
-
-<td>[Portuguese (Português)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=pt&u=rotherham.gov.uk)</td>
-
-</tr>
-
-<tr>
-
-<td>[Estonian (Eesti)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=et&u=rotherham.gov.uk)</td>
-
-<td>[Romanian (Română)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ro&u=rotherham.gov.uk)</td>
-
-</tr>
-
-<tr>
-
-<td>[Filipino](https://translate.google.co.uk/translate?hl=&sl=auto&tl=tl&u=rotherham.gov.uk)</td>
-
-<td>[Russian (Русский)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ru&u=rotherham.gov.uk)</td>
-
-</tr>
-
-<tr>
-
-<td>[Finnish (Suomi)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=fi&u=rotherham.gov.uk)</td>
-
-<td>[Serbian (Српски)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=sr&u=rotherham.gov.uk)</td>
-
-</tr>
-
-<tr>
-
-<td>[French (Français)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=fr&u=rotherham.gov.uk)</td>
-
-<td>[Slovak (Slovenský)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=sk&u=rotherham.gov.uk)</td>
-
-</tr>
-
-<tr>
-
-<td>[Galician](https://translate.google.co.uk/translate?hl=&sl=auto&tl=gl&u=rotherham.gov.uk)</td>
-
-<td>[Slovenian (Slovenski)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=sl&u=rotherham.gov.uk)</td>
-
-</tr>
-
-<tr>
-
-<td>[Georgian (ქართული)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ka&u=rotherham.gov.uk)</td>
-
-<td>[Spanish (Español)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=es&u=rotherham.gov.uk)</td>
-
-</tr>
-
-<tr>
-
-<td>[German (Deutsch)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=de&u=rotherham.gov.uk)</td>
-
-<td>[Swedish (Svenska)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=sv&u=rotherham.gov.uk)</td>
-
-</tr>
-
-<tr>
-
-<td>[Greek (Ελληνικά)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=el&u=rotherham.gov.uk)</td>
-
-<td>[Thai (ภาษาไทย)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=th&u=rotherham.gov.uk)</td>
-
-</tr>
-
-<tr>
-
-<td>[Gujarati (ગુજરાતી)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=gu&u=rotherham.gov.uk)</td>
-
-<td>[Turkish (Türk)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=tr&u=rotherham.gov.uk)</td>
-
-</tr>
-
-<tr>
-
-<td>[Haitian Creole (Kreyòl ayisyen)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ht&u=rotherham.gov.uk)</td>
-
-<td>[Ukrainian (Український)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=uk&u=rotherham.gov.uk)</td>
-
-</tr>
-
-<tr>
-
-<td>[Hebrew (עברית)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=iw&u=rotherham.gov.uk)</td>
-
-<td>[Urdu (اردو)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=ur&u=rotherham.gov.uk)</td>
-
-</tr>
-
-<tr>
-
-<td>[Hindi](https://translate.google.co.uk/translate?hl=&sl=auto&tl=hi&u=rotherham.gov.uk)</td>
-
-<td>[Vietnamese (Việt)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=vi&u=rotherham.gov.uk)</td>
-
-</tr>
-
-<tr>
-
-<td>[Hungarian (Magyar)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=hu&u=rotherham.gov.uk)</td>
-
-<td>[Welsh (Cymraeg)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=cy&u=rotherham.gov.uk)</td>
-
-</tr>
-
-<tr>
-
-<td>[Icelandic (Íslenska)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=is&u=rotherham.gov.uk)</td>
-
-<td>[Yiddish (ייִדיש)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=yi&u=rotherham.gov.uk)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+[Yiddish (ייִדיש)](https://translate.google.co.uk/translate?hl=&sl=auto&tl=yi&u=rotherham.gov.uk)
