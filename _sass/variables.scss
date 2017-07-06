@@ -29,11 +29,13 @@
   color: #ffffff;
 }
 
-#tab1:checked ~ .top-task #resident,
-#tab2:checked ~ .top-task #business,
-#tab3:checked ~ .top-task #visiting {
+#tab-resident:checked ~ .top-task #resident,
+#tab-business:checked ~ .top-task #business,
+#tab-visiting:checked ~ .top-task #visiting {
   display: block;
 }
+
+
 
 .events-news {
   background: #333333;
@@ -66,7 +68,7 @@
   color: #ffffff;
 }
 
-#tab1:checked ~ .events-news #events,
-#tab2:checked ~ .events-news #news {
+#tab-events:checked ~ .events-news #events,
+#tab-news:checked ~ .events-news #news {
   display: block;
 }
