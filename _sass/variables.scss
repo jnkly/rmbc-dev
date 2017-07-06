@@ -35,7 +35,10 @@
   display: block;
 }
 
-
+.events-news {
+  background: #333333;
+  display: block;
+}
 
 .events-news > div {
   display: none;
@@ -67,4 +70,3 @@
 #tab2:checked ~ .events-news #news {
   display: block;
 }
-
