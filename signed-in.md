@@ -17,7 +17,7 @@ How can we help you today?
           <a class="db bg-black-05 ph3 pv2 pa3-m pa3-l f6 f5-m f5-l near-black no-underline hover dim ma1 ma2-l" href="{{site.baseurl}}/">Apply for something</a>
         </div>
         <div class="fl w-100 w-50-m w-25-l">
-          <a class="db bg-black-05 ph3 pv2 pa3-m pa3-l f6 f5-m f5-l near-black no-underline hover dim ma1 ma2-l" href="{{site.baseurl}}/">Tellus about something</a>
+          <a class="db bg-black-05 ph3 pv2 pa3-m pa3-l f6 f5-m f5-l near-black no-underline hover dim ma1 ma2-l" href="{{site.baseurl}}/">Tell us about something</a>
         </div>
         <div class="fl w-100 w-50-m w-25-l">
           <a class="db bg-black-05 ph3 pv2 pa3-m pa3-l f6 f5-m f5-l near-black no-underline hover dim ma1 ma2-l" href="{{site.baseurl}}/">Your settings</a>
