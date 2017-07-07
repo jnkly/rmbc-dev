@@ -19,7 +19,7 @@ layout: default
             <label class="pa0 ma0 lh-copy f6 pointer"><input type="checkbox"> Remember me</label>
           </fieldset>
           <div class="">
-            <input class="b ph3 pv2 input-reset ba white bg-near-black hover-bg-green pointer f6 dib bn" type="submit" value="Sign in">
+            <a href="{{site.baseurl}}/sign-in" class="b ph3 pv2 input-reset ba link white bg-near-black hover-bg-green pointer f6 dib bn" type="submit" value="Sign in">Sign in</a>
           </div>
           <div class="lh-copy mt3">
             <a href="#0" class="f6 link dim black db">Sign up</a>
@@ -27,4 +27,4 @@ layout: default
           </div>
         </form>
       </main>
-    </section>
+</section>
