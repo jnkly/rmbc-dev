@@ -1,5 +1,5 @@
 ---
-title: Signin
+title: Sign in
 layout: default
 ---
 
