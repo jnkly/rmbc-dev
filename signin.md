@@ -1,6 +1,6 @@
 ---
 title: Signin
-layout: default
+layout: signed-in
 ---
 
 # Sign In
