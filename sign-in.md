@@ -1,12 +1,13 @@
 ---
 title: Signin
-layout: signed-in
+layout: default
 ---
 
-# Hello, Luke
-### Welcome to ROTHERHAM.GOV.UK
+# Sign in
+### To Your Account
 
-How can we help you today?
-- Pay
-- Apply
-- Report
+Username
+
+Password
+
+Submit
