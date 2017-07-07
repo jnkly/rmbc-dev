@@ -3,7 +3,7 @@ title: Sign in
 layout: default
 ---
 
-    <section class="ph3 pv4">
+<section class="ph3 pv4">
       
       <main class="pa4 black-80">
         <form class="measure center">
