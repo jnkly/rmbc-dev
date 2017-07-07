@@ -11,4 +11,4 @@ How can we help you today?
 - Apply
 - Report
 
-<a href="{{site.baseurl}}/" class="b ph3 pv2 input-reset ba link white bg-near-black hover-bg-green pointer f6 dib bn" type="submit" value="Sign out">Sign out</a>
+<a href="{{site.baseurl}}/" class="ph3 pv2 input-reset ba link white bg-mid-gray hover-bg-green pointer f5 dib bn" type="submit" value="Sign out">Sign out</a>
