@@ -1,98 +1,144 @@
-  <section class="intro pa3">
-    <form class="mw6 center mv5">
-      <fieldset class="bn ma0 pa0">
-        <div class="cf">
-          <input class="w-70 w-80-l f6 input-reset fl black-80 bg-white pa3 lh-solid bn br0" name="Search query" placeholder="Find information, advice and more" type="text" value=""> <input class="w-30 w-20-l f6 button-reset fl tc lh-solid pa3 white bn br0 bg-near-black hover-bg-green" type="search" value="Search">
-        </div>
-      </fieldset>
-    </form>
-    <div class="cf mw8 center">
-      <input checked class="top-task--input" id="tab-resident" name="top-task--tabs" type="radio"> <label class="top-task--label" for="tab-resident">Resident</label> <input class="top-task--input" id="tab-business" name="top-task--tabs" type="radio"> <label class="top-task--label" for="tab-business">Business</label> <input class="top-task--input" id="tab-visiting" name="top-task--tabs" type="radio"> <label class="top-task--label" for="tab-visiting">Visiting</label>
-      <div class="top-task cf pv2 mb5">
+<section class="intro pa3">
+      
+      <form class="mw6 center mv4 mv5-m mv6-l">
+        <fieldset class="bn ma0 pa0"> 
+          <div class="cf flex">
+            <input placeholder="Find information, advice and more" type="text" name="Search query" value="" class="bn br0 w-70 w-80-l f6 input-reset fl black-80 bg-white pa3 lh-solid">
+            <input type="submit" value="Search" class="bn br0 w-30 w-20-l f6 button-reset fl tc lh-solid pa3 white bg-near-black hover-bg-green">
+          </div>
+        </fieldset>
+      </form>
+      
+      <div class="cf mw8 center">
+
+      <input class="top-task--input" id="tab-resident" type="radio" name="top-task--tabs" checked>
+      <label class="top-task--label" for="tab-resident">Resident</label>
+
+      <input class="top-task--input" id="tab-business" type="radio" name="top-task--tabs">
+      <label class="top-task--label" for="tab-business">Business</label>
+
+      <input class="top-task--input" id="tab-visiting" type="radio" name="top-task--tabs">
+      <label class="top-task--label"for="tab-visiting">Visiting</label>
+
+      <div class="top-task cf pv2 mb4 mb5-m mb6-l">
         <div id="resident">
+
           <ul class="ma1 ph2">
+            
             <li class="list fl w-100 w-50-m w-25-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Pay your council tax</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Pay your council tax</a>
             </li>
+            
             <li class="list fl w-100 w-50-m w-25-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Request a housing repair</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Request a housing repair</a>
             </li>
+            
             <li class="list fl w-100 w-50-m w-25-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Pay your rent</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Pay your rent</a>
             </li>
+            
             <li class="list fl w-100 w-50-m w-25-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Tell us you've moved</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Tell us you've moved</a>
             </li>
+            
             <li class="list fl w-100 w-50-m w-25-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Single person discount</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Single person discount</a>
             </li>
+            
             <li class="list fl w-100 w-50-m w-25-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Register a birth</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Register a birth</a>
             </li>
+            
             <li class="list fl w-100 w-50-m w-25-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Find your bin day</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Find your bin day</a>
             </li>
+            
             <li class="list fl w-100 w-50-m w-25-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Pay an invoice</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Pay an invoice</a>
             </li>
+            
           </ul>
         </div>
+
         <div id="business">
           <ul class="ma1 ph2">
+
             <li class="list fl w-100 w-50-m w-third-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Pay business rates</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Pay business rates</a>
             </li>
+
             <li class="list fl w-100 w-50-m w-third-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Apply for business rates discount</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Apply for business rates discount</a>
             </li>
+
             <li class="list fl w-100 w-50-m w-third-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Tell us your business is moving</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Tell us your business is moving</a>
             </li>
+
             <li class="list fl w-100 w-50-m w-third-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Invest in Rotherham</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Invest in Rotherham</a>
             </li>
+
             <li class="list fl w-100 w-50-m w-third-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Landlord services</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Landlord services</a>
             </li>
+
             <li class="list fl w-100 w-50-m w-third-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Planning applications</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Planning applications</a>
             </li>
+
             <li class="list fl w-100 w-50-m w-third-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Business waste</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Business waste</a>
             </li>
+
             <li class="list fl w-100 w-50-m w-third-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Supply to the council</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Supply to the council</a>
             </li>
+
           </ul>
         </div>
+
         <div id="visiting">
+          
           <ul class="ma1 ph2">
+
             <li class="list fl w-100 w-50-m w-25-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Getting here</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Getting here</a>
             </li>
+
             <li class="list fl w-100 w-50-m w-25-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Car parks</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Car parks</a>
             </li>
+
             <li class="list fl w-100 w-50-m w-25-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Parks and green spaces</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Parks and green spaces</a>
             </li>
+
             <li class="list fl w-100 w-50-m w-25-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Tourism and things to do</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Tourism and things to do</a>
             </li>
+
             <li class="list fl w-100 w-50-m w-25-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Rotherham Show</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Rotherham Show</a>
             </li>
+
             <li class="list fl w-100 w-50-m w-25-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Sports centres</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Sports centres</a>
             </li>
+
             <li class="list fl w-100 w-50-m w-25-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Clifton Park and Museum</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Clifton Park and Museum</a>
             </li>
+
             <li class="list fl w-100 w-50-m w-25-l">
-              <a class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim" href="#">Boston Castle</a>
+              <a href="#" class="ma2 db f6 f5-m f5-l ph3 pv2 pa3-m pa3-l bg-gray white no-underline dim">Boston Castle</a>
             </li>
+
           </ul>
+          
         </div>
+
       </div>
-    </div>
-  </section>
+      </div>
+
+    </section>
