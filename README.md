@@ -2,6 +2,8 @@
 # RMBC - Dev
 
 
-A development site for Rotherham Council - Setup Jekyll with GitHub Pages in 60 Seconds
+Development site for Rotherham Council.
+
+A redesign of the corporate website, with a focus on transactions.
 
 Jk ( ^_^)ノ
