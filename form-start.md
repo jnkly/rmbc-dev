@@ -13,7 +13,7 @@ layout: default
         <label class="form-tabs--label" for="tab-more">More</label>
 
         <input class="form-tabs--input" id="tab-agreement" type="radio" name="tabs">
-        <label class="form-tabs--label"for="tab-agreement">Agreement</label>
+        <label class="form-tabs--label" for="tab-agreement">Agreement</label>
 
         <div class="form-tabs cf pa3">
           <div id="instructions" class="white">
