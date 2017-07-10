@@ -34,7 +34,7 @@ layout: default
             </ul>
             <p>You need to be on the electoral register to vote in elections and referendums.</p>
 
-            <a href="{{site.baseurl}}/" class="ph3 pv2 input-reset ba link near-black bg-white hover-bg-green pointer f5 dib bn" type="submit" value="Start now">Start now</a>
+            <a href="{{site.baseurl}}/" class="ph3 pv2 input-reset ba link near-black bg-white hover-bg-green hover-white pointer f5 dib bn" type="submit" value="Start now">Start now</a>
             
           </div>
 
