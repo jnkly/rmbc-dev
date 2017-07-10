@@ -3,7 +3,7 @@ title: Form start
 layout: default
 ---
 
-<section class="pa3">
+<section>
       <div class="cf mw8 center">
 
         <input class="form-tabs--input" id="tab-instructions" type="radio" name="tabs" checked>
