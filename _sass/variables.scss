@@ -39,9 +39,9 @@
   color: #ffffff;
 }
 
+#tab-popular:checked ~ .top-task #popular,
 #tab-resident:checked ~ .top-task #resident,
-#tab-business:checked ~ .top-task #business,
-#tab-visiting:checked ~ .top-task #visiting {
+#tab-business:checked ~ .top-task #business {
   display: block;
 }
 
