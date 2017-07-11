@@ -1,6 +1,6 @@
 ---
 title: Form start
-layout: default
+layout: signed-in
 ---
 
    <section>
