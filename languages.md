@@ -5,7 +5,7 @@ layout: default
 
 # Languages
 
-## Rotherham.gov.uk in other languages
+## View our website in other languages
 
 You can translate our website into 60 different languages using Google Translate.
 
