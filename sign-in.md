@@ -4,7 +4,7 @@ layout: default
 ---
 
 <section class="ph3 pv4">
-      <main class="pa4 black-80">
+      <main class="black-80">
         <form class="measure center">
           <fieldset id="sign_up" class="ba b--transparent ph0 mh0">
             <legend class="f4 fw6 ph0 mh0">Sign in</legend>
@@ -28,3 +28,4 @@ layout: default
         </form>
       </main>
     </section>
+   
