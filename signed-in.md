@@ -4,9 +4,7 @@ layout: signed-in
 ---
 
 # Hello, Luke
-### Welcome to Your Account
-
-How can we help you today?
+### Welcome to Your Account, how can we help you today?
     
 <section class="pa3">
       <div class="cf mw8 center">
