@@ -1,9 +1,24 @@
 /* homepage top tasks with background */
 
 .intro {
-  background-image: url(https://jnkly.github.io/rmbc-dev/images/rotherham-parks.jpg);
-  background-position: center;
-  background-size: cover;
+  background-image: none;
+  background-color: #aaaaaa;
+}
+
+@media screen and (min-width: 30em) and (max-width: 60em) {
+  .intro {
+    background-image: url(https://jnkly.github.io/rmbc-dev/images/rotherham-parks.jpg);
+    background-position: center;
+    background-size: cover;
+  }
+}
+
+@media screen and (min-width: 60em) {
+  .intro {
+    background-image: url(https://jnkly.github.io/rmbc-dev/images/rotherham-parks.jpg);
+    background-position: center;
+    background-size: cover;
+  }
 }
 
 
@@ -122,4 +137,16 @@
 #tab-more:checked ~ .form-tabs #more,
 #tab-agreement:checked ~ .form-tabs #agreement {
   display: block;
+}
+
+.flex-container {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+}
+
+.flex-item {
+  -webkit-flex: 1 0 33.333%;
+  flex: 1 0 33.333%;
 }
