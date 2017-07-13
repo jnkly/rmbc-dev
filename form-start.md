@@ -3,8 +3,8 @@ title: Form start
 layout: signed-in
 ---
 
-   <section>
-      <div class="cf mw8 center">
+<section>
+      <div class="cf mw9 center">
         <input class="form-tabs--input" id="tab-instructions" type="radio" name="tabs" checked>
         <label class="form-tabs--label f7 f6-m f5-l" for="tab-instructions">Instructions</label>
         <input class="form-tabs--input" id="tab-more" type="radio" name="tabs">
@@ -27,7 +27,7 @@ layout: signed-in
             <li>your passport if you’re a British citizen living abroad</li>
             </ul>
             <p>You need to be on the electoral register to vote in elections and referendums.</p>
-            <a href="{{site.baseurl}}/" class="ph3 pv2 input-reset ba link near-black bg-white hover-bg-green hover-white pointer f5 dib bn" type="submit" value="Start now">Start now</a>
+            <a href="{{site.baseurl}}/" class="ph3 pv2 input-reset ba link near-black bg-white hover-bg-green hover-white pointer f5 dib bn" type="submit" value="Start now">Start now</a> 
           </div>
           <div id="more" class="white">
             <h3 class="f3">Before you start</h3>
@@ -71,3 +71,4 @@ layout: signed-in
         </div>
       </div>
     </section>
+    
