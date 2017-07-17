@@ -37,6 +37,9 @@
 @import 'colors';
 @import 'media-queries';
 
+//  RMBC Variables
+@import 'variables';
+
 //  Debugging 
 @import 'debug-children';
 @import 'debug-grid';
@@ -96,7 +99,3 @@
 @import 'z-index';
 @import 'nested';
 @import 'styles';
-
-//  RMBC Variables
-@import 'variables';
-
